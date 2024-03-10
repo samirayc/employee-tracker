@@ -1,5 +1,4 @@
 const db = require('./config/connection.js');
-const { displayTitleText } = require('./lib/specialText.js');
 const selectTask = require('./lib/selectTask.js');
 
 // handle errors or start application

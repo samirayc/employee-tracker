@@ -24,6 +24,6 @@ VALUES
 ('Minnie', 'Nincha', 4, 5),
 ('Jennifer', 'Huh', 5, NULL),
 ('Pete', 'Wentz', 6, 9),
-('Cho', 'Miyeon', 1, 9),
+('Miyeon', 'Cho', 1, 9),
 ('Hayley', 'Williams', 2, 9),
-('Jeon', 'Soyeon', 5, NULL);
+('Soyeon', 'Jeon', 5, NULL);
